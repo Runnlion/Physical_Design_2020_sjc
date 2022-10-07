@@ -1,0 +1,12 @@
+VM Machine 
+OS:  ubuntu 16.04
+CPU: 8 cores i7-10875H
+RAM: 4GB
+
+V_Nun	Edges	Time
+v8 	9 	0.000009 sec 	
+v100	300	0.000969 sec
+v1000	10000	0.281869 sec 
+v3000	50000	4.164172 sec 
+v10000	100000	28.072072 sec
+v30000	300000	167.410378 sec

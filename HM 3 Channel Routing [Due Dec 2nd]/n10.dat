@@ -1,0 +1,12 @@
+NumNet 10
+ChannelLength 15
+NET n0 t3 t5 t4 ;
+NET n1 b9 t11 ;
+NET n2 b7 b10 ;
+NET n3 t7 b8 ;
+NET n4 t2 t14 ;
+NET n5 b14 t10 ;
+NET n6 b13 b4 t6 ;
+NET n7 b2 t8 ;
+NET n8 b6 t0 ;
+NET n9 b3 b12 t9 ;

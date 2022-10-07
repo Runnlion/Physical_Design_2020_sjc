@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/stephen/Desktop/HM 1/BFS.cpp
+iostream
+-
+fstream
+-
+string
+-
+vector
+-
+algorithm
+-
+time.h
+/home/stephen/Desktop/HM 1/time.h
+

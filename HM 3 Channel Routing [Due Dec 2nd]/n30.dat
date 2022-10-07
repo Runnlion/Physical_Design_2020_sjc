@@ -1,0 +1,32 @@
+NumNet 30
+ChannelLength 45
+NET n0 t0 t14 ;
+NET n1 t10 t17 ;
+NET n2 b0 b9 ;
+NET n3 t39 b41 ;
+NET n4 b1 t44 ;
+NET n5 b5 t42 t15 ;
+NET n6 b7 t30 ;
+NET n7 b6 b36 b4 ;
+NET n8 b33 t29 ;
+NET n9 b8 b35 ;
+NET n10 b25 b42 ;
+NET n11 t34 b28 b37 ;
+NET n12 t19 t36 b14 ;
+NET n13 t40 b29 t3 ;
+NET n14 t16 b12 ;
+NET n15 t26 t8 ;
+NET n16 b20 t37 t32 ;
+NET n17 b23 t24 t21 ;
+NET n18 t20 t31 ;
+NET n19 b15 t25 ;
+NET n20 b17 t41 ;
+NET n21 b21 b22 b26 ;
+NET n22 b44 t33 ;
+NET n23 b24 b11 ;
+NET n24 b34 t22 t43 ;
+NET n25 t23 b43 ;
+NET n26 b18 t12 ;
+NET n27 t6 b32 t27 ;
+NET n28 b16 b13 ;
+NET n29 t35 t2 ;

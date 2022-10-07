@@ -1,0 +1,7 @@
+NumNet 4
+ChannelLength 8
+NET n0 b0 t1 ;
+NET n1 b1 t2 t3 ;
+NET n2 b3 b4 t5 ;
+NET n3 b5 b6 t7 ;
+

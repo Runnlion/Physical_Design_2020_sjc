@@ -1,0 +1,29 @@
+1. You may change the naming of the vertices, by making v1 as v0, and have the problem solved.
+2. If you want to make your program more general, it is very difficult. As I know, when we write a graph traversal program, we are constrained by the order of traversal that we make in the program (that is why we have to artificially define in the program, the order of the vertex's name, e.g., v0 before v1, then v2, etc.), choosing which element (left child or right child) to be the next one to traverse first may derive a different solution of the problem.
+
+Hope that this will answer your question raised.
+
+杜晟道 於 2020/10/8 下午 01:50 寫道:
+Dear Prof. Chen:
+
+I have finished the core algorithm of the BFS.
+But I found there has a problem when I manually change the .source 0 to .source 1 etc. , the program shut down or run in a loop.
+The main problem of this I checked is I just traverse the data on the left side of each edges.
+
+For example, it could recognize the 0 1/ 0 3 when our starting point is 0, while it can not find the 0 1 when I selected the starting point to 1( 1 2 / 1 7/ without 0 1)
+.edge 0 1
+.edge 0 3
+.edge 3 4
+.edge 3 2
+.edge 1 2
+.edge 1 7
+.edge 2 7
+.edge 2 6
+.edge 2 5
+
+Should I modify my program to fit all kinds of situation? 
+For example, when I select source as 1, I change the order if and only if the second vertex is 1?
+
+Hoping for your reply.
+Best regards,
+Shengdao Du
